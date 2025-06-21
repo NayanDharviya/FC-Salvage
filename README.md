@@ -71,8 +71,8 @@ pip install pandas numpy matplotlib seaborn statsmodels prophet scikit-learn
 ## 📞 Contact
 
 For questions or collaboration:
-**Deepak Kumar**  
-📧 deepak.kumar@target.com
+**Nayan Dharviya**  
+📧 Nayan.Dharviya@target.com
 
 ---
 
